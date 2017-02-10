@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1486700293 source:c:\users\prakash\desktop\shaluc\complex\main.c
+	<stdio.h>
+	"complex.h"
+
+1486700196 c:\users\prakash\desktop\shaluc\complex\complex.h
+
